@@ -63,6 +63,7 @@
   <classpathentry kind="var" path="M2_REPO/net/sf/kosmosfs/kfs/0.3/kfs-0.3.jar"/>
   <classpathentry kind="var" path="M2_REPO/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar"/>
   <classpathentry kind="src" path="/core"/>
+  <classpathentry kind="var" path="M2_REPO/fr/imag/qdbenchmark/1.0/qdbenchmark-1.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/checkstyle/checkstyle/5.0/checkstyle-5.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6.jar" sourcepath="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/google/collections/google-collections/1.0/google-collections-1.0.jar"/>

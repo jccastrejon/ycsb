@@ -39,6 +39,7 @@
   <classpathentry kind="var" path="M2_REPO/org/apache/cassandra/deps/avro/1.4.0-cassandra-1/avro-1.4.0-cassandra-1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/cassandra/deps/libthrift/0.5.0/libthrift-0.5.0.jar"/>
   <classpathentry kind="src" path="/core"/>
+  <classpathentry kind="var" path="M2_REPO/fr/imag/qdbenchmark/1.0/qdbenchmark-1.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/checkstyle/checkstyle/5.0/checkstyle-5.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils-core/1.7.0/commons-beanutils-core-1.7.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/google/collections/google-collections/1.0/google-collections-1.0.jar"/>

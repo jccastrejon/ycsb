@@ -32,6 +32,11 @@
       <version>6.1.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>fr.imag</groupId>
+      <artifactId>qdbenchmark</artifactId>
+      <version>1.0</version>
+    </dependency>
   </dependencies>	
 
 </project>

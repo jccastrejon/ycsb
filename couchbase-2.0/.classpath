@@ -6,6 +6,7 @@
   <classpathentry kind="src" path="/core"/>
   <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.3/jackson-mapper-asl-1.9.3.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.4/jackson-core-asl-1.9.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/fr/imag/qdbenchmark/1.0/qdbenchmark-1.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/checkstyle/checkstyle/5.0/checkstyle-5.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6.jar" sourcepath="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-beanutils/commons-beanutils-core/1.7.0/commons-beanutils-core-1.7.0.jar"/>
