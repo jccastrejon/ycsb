@@ -21,5 +21,6 @@
 	<classpathentry kind="var" path="M2_REPO/org/jdom/jdom/1.1/jdom-1.1.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/fr.imag.qdbenchmark.dsl"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

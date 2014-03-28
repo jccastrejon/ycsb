@@ -8,6 +8,5 @@ import fr.imag.qdbenchmark.operations.KeyOperations;
  * @author jccastrejon
  * 
  */
-public class DocumentDB implements KeyOperations, AggregateOperations {
-
+public abstract class DocumentDB implements KeyOperations, AggregateOperations {
 }

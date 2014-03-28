@@ -5,8 +5,7 @@ import fr.imag.qdbenchmark.operations.KeyOperations;
 /**
  * 
  * @author jccastrejon
- *
+ * 
  */
-public class KeyValueDB implements KeyOperations {
-
+public abstract class KeyValueDB implements KeyOperations {
 }

@@ -8,6 +8,5 @@ import fr.imag.qdbenchmark.operations.KeyOperations;
  * @author jccastrejon
  * 
  */
-public class GraphDB implements KeyOperations, ConnectionOperations {
-
+public abstract class GraphDB implements KeyOperations, ConnectionOperations {
 }

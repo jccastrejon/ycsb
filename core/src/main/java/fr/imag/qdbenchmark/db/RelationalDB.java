@@ -9,6 +9,5 @@ import fr.imag.qdbenchmark.operations.KeyOperations;
  * @author jccastrejon
  * 
  */
-public class RelationalDB implements KeyOperations, AggregateOperations, ConnectionOperations {
-
+public abstract class RelationalDB implements KeyOperations, AggregateOperations, ConnectionOperations {
 }

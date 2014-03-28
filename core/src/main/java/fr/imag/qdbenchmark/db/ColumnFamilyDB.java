@@ -6,8 +6,7 @@ import fr.imag.qdbenchmark.operations.KeyOperations;
 /**
  * 
  * @author jccastrejon
- *
+ * 
  */
-public class ColumnFamilyDB implements KeyOperations, AggregateOperations {
-
+public abstract class ColumnFamilyDB implements KeyOperations, AggregateOperations {
 }
