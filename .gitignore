@@ -12,3 +12,4 @@ distribution/target/
 elasticsearch/target/
 memcached/target/
 mongodb/target/
+hbase/target/
