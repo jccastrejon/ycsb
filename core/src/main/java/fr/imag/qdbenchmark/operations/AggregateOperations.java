@@ -1,5 +1,8 @@
 package fr.imag.qdbenchmark.operations;
 
+import fr.imag.qdbenchmark.operations.OperationType.InsertOperation;
+import fr.imag.qdbenchmark.operations.OperationType.ReadOperation;
+import fr.imag.qdbenchmark.operations.OperationType.UpdateOperation;
 import fr.imag.qdbenchmark.qdBenchmarkDsl.Struct_;
 
 /**
@@ -14,6 +17,7 @@ public interface AggregateOperations {
 	 * @param pattern
 	 * @return
 	 */
+	@ReadOperation
 	public int read(Struct_ pattern);
 
 	/**
@@ -21,6 +25,7 @@ public interface AggregateOperations {
 	 * @param value
 	 * @return
 	 */
+	@InsertOperation
 	public int insert(Struct_ value);
 
 	/**
@@ -29,6 +34,7 @@ public interface AggregateOperations {
 	 * @param value
 	 * @return
 	 */
+	@UpdateOperation
 	public int update(Struct_ pattern, Struct_ value);
 
 	/**
