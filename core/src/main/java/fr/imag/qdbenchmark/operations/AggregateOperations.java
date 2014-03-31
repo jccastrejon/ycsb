@@ -1,9 +1,9 @@
 package fr.imag.qdbenchmark.operations;
 
+import fr.imag.qdbenchmark.dsl.Struct_;
 import fr.imag.qdbenchmark.operations.OperationType.InsertOperation;
 import fr.imag.qdbenchmark.operations.OperationType.ReadOperation;
 import fr.imag.qdbenchmark.operations.OperationType.UpdateOperation;
-import fr.imag.qdbenchmark.qdBenchmarkDsl.Struct_;
 
 /**
  * 
